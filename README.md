@@ -3,7 +3,7 @@
 
 - 🛸 I’m currently learning **how can I hack the universe.**
 
-- 🖍 I regularly write articles on [my mind]
+- 🖍 I regularly write articles on my mind.
 
 - 🌌 Ask me **what's on your mind**
 
@@ -24,5 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=betulssahin&show_icons=true&locale=en" alt="betulssahin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betulssahin&" alt="betulssahin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=betulssahin&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&stroke=48BE10&ring=5F2FB9" alt="betulssahin" /></p>
+
 
