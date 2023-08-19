@@ -7,7 +7,7 @@
 
 - 🌌 Ask me **what's on your mind**
 
-- 🪃 You can reach me **betulrfk@gmail.com**
+- 🪃 You can reach me **betullssahin@gmail.com**
 
 - 🃏 Fun fact **I'm a science teacher**
 
