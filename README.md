@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖🏿, I'm Betül</h1>
 <h3 align="center">A passionate student from Arrokoth</h3>
 
-- 🛸 I’m currently learning **how can I hack the universe.**
+- 🛸 I’m currently learning **how to hack the universe.**
 
 - 🖍 I regularly write articles on my mind.
 
