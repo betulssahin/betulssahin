@@ -3,7 +3,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/1fc81a5126cad41b6b4c7738598b0228/tumblr_nerwu3jiu11sgl0ajo1_500.gifv"  />
+
+
+
 
 ###
 
@@ -45,8 +48,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/betulssahin/betulssahin/output/snake.svg" alt="Snake animation" />
-
+<!--  <img src="https://raw.githubusercontent.com/betulssahin/betulssahin/output/snake.svg" alt="Snake animation" />  -->
+ 
 ###
 
 
