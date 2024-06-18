@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/betulssahin/betulssahin/main/kO.png)
+![](https://raw.githubusercontent.com/betulssahin/betulssahin/main/ko.png)
 
 ###
 <div align="center">
